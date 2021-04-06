@@ -19,7 +19,8 @@ We have includes samples of these licenses in our LICENSES folder, but please ch
 - Solderpad - basically Apache 2.0 but for hardware, by Andrew Katz
 - TDPL  - Three-Dimensional Printing Open license by Eli Greenbaum (for enclosures)
 - CC by SA - Adafruit, Sparkfun, and Arduino utilize this license
-It is important to note that The Cyrcle Phone 4G LTE's hardware (including schematics, board layout, and enclosure CAD files) are shared with you under the CERN-OHL-P license, with some limitations due to the closed source licenses we have had to sign with suppliers in order to obtain specific components. 
+
+It is important to note that The Cyrcle Phone 4G LTE's hardware (including schematics, board layout, and enclosure CAD files) are shared with you under an open source license, with some limitations due to the closed source licenses we have had to sign with suppliers in order to obtain specific components. 
 
 Closed Source Hardware and Software Licenses
 Below is a list of important private licenses which our company has had to sign along our journey of making The Cyrcle Phone 4G LTE of which you should be aware, and which we may not be able to share out to you.
