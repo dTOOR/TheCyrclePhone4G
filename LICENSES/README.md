@@ -1,4 +1,6 @@
-<title>LICENSES</title>
+<head>
+  <title>LICENSES</title>
+</head>
 
 <h1>Open Source Software Licenses</h1>
 Below is a list of important open source software licenses which you should be aware of when you modify software provided here. 
