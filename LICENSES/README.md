@@ -1,5 +1,7 @@
 <h1>LICENSES</h1>
 
+<p>It is important to note that The Cyrcle Phone 4G LTE's hardware (including schematics, board layout, and enclosure CAD files) are shared with you under open source licenses, with some limitations due to the closed source licenses we have had to sign with suppliers in order to obtain specific components.</p>
+
 <h2>Open Source Software Licenses</h2>
 <p>Below is a list of important open source software licenses which you should be aware of when you modify software provided here. 
 We have provided this list to the best of our ability, and do not claim it is all-inclusive. 
