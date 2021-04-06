@@ -16,7 +16,7 @@ We have includes samples of these licenses in our LICENSES folder, but please ch
 - CERN - Now available in 3 flavors: CERN-OHL-P (permissive), CERN-OHL-W (weakly reciprocal), and CERN-OHL-S (strongly reciprocal)
          Developed by the org which created the world wide web
 - TAPR - Tucson Amateur Packet-Radio Open Hardware license, by John Ackerman and FOSS' Bruce Perens
-- Solderpad - based on Apache 2, by Andrew Katz
+- Solderpad - basically Apache 2.0 but for hardware, by Andrew Katz
 - TDPL  - Three-Dimensional Printing Open license by Eli Greenbaum (for enclosures)
 - CC by SA - Adafruit, Sparkfun, and Arduino utilize this license
 It is important to note that The Cyrcle Phone 4G LTE's hardware (including schematics, board layout, and enclosure CAD files) are shared with you under the CERN-OHL-P license, with some limitations due to the closed source licenses we have had to sign with suppliers in order to obtain specific components. 
