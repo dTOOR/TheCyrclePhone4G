@@ -7,7 +7,7 @@ We have includes samples of these licenses in our LICENSES folder, but please ch
 - Apache 2.0 (Example: Android Open Source Project)
 - GNU GPLv2 (Example: Linux kernel patches)
 - GNU GPLv3 (Example: F-Droid)
-- Mozilla Public License 2.0 (Example: Lightning Browser)
+- Mozilla Public License 2.0 (Example: Firefox, Lightning Browser)
 
 Open Source Hardware Licenses
 Below is a list of important open source hardware licenses which you should be aware of when you modify any open source hardware.
