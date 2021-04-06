@@ -7,4 +7,4 @@ SOFTWARE:
 Includes directions for creating the build.  
 
 LICENSES:
-Mobile phones have a plethora of open source licenses and private driver licenses to maintain, for both the hardware and software. Communicating these licenses to our users in a clear manner is important to us. Please check our LICENSES folder for a short README.md overview and a copy of all the open source licenses which pertain to our product.
+A brief README.md overview and a copy of all the open source licenses which pertain to our product.
