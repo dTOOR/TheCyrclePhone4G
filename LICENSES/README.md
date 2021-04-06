@@ -1,10 +1,11 @@
 <h1>LICENSES</h1>
 
 <h2>Open Source Software Licenses</h2>
-Below is a list of important open source software licenses which you should be aware of when you modify software provided here. 
-We have provided this list to the best of our ability, and do not claim it is all-inclusive. 
-We have includes samples of these licenses in our LICENSES folder, but please check with these organizations for the most updated version.
-- Apache 2.0 (Example: Android Open Source Project)
+Below is a list of important open source software licenses which you should be aware of when you modify software provided here. <br>
+We have provided this list to the best of our ability, and do not claim it is all-inclusive. <br>
+We have includes samples of these licenses in our LICENSES folder, but please check with these organizations for the most updated version. <br>
+<ul>
+         <li>- Apache 2.0 (Example: Android Open Source Project)</li>
 - GNU GPLv2 (Example: Linux kernel patches)
 - GNU GPLv3 (Example: F-Droid)
 - Mozilla Public License 2.0 (Example: Firefox, Lightning Browser)
