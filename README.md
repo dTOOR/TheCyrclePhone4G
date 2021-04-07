@@ -9,5 +9,5 @@ Includes directions for creating the build.
 LICENSES:
 A brief README.md overview and a copy of all the open source licenses which pertain to our product.
 
-PRESS RELEASE:
+MEDIA:
 Logos, brand guidelines, team photos - all the info necessary to talk about dTOOR & The Cyrcle Phone
