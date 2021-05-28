@@ -1,18 +1,17 @@
 
-These are the STL files for The Cyrcle Phone 4G enclosure.
+<p>These are the STL files for 2021 The Cyrcle Phone 4G enclosure.</p>
 
-Additional Materials Needed:
+<p>Additional Materials Needed:</p>
 Uses the following eight (8) McMaster Carr screws (4 for the skeleton, 4 for the back shell)
 - 5mm Screws: JIS Steel Flat Head Screws, M1.6 x 0.35 mm Thread, 5mm Long, 91305A004 https://www.mcmaster.com/catalog/127/3293/
-.
-.
-Tips for printing:
+
+<p>Tips for printing:</p>
 - Calibrate your machine first. The walls are thin and will test your 3D printer's tolerances.
 - Print the "back shell" separately, face down, and use rectilinear supports inside to make the back of the shell smooth. Use pliers to grab and twist the support material out from the inside of the "back shell". The inside will end up being rough, but the outside smoothness will feel nice in the hand.
 - Print the "faceplate" face down on a glassy surface for a nice and smooth face. We typically use a contrasting color (black) for this piece, and consequently have to print it separately.
 - Print the "outer ring" with the tabs up, face down, because you will want the face of the "outer ring" to be smooth, and allow the slight indentations for the ports to print well on top. (You can sand away any irregularities that may occur with the tabs later since they end up hidden in the design.)
 
-History:
+<p>History:</p>
 In July 2020, industrial designer Wesley Millora submitted an entry for The Cyrcle Phone 4G enclosure contest held on MyMiniFactory and won "Best Exterior" out of 64 submissions.
 In September 2020, dTOOR solicited Millora for a bid to update the design for injection molding purposes, which he then submitted.
 Months rolled by as dTOOR continued to work on software development.
