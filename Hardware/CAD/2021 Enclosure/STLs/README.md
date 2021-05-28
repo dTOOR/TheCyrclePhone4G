@@ -1,6 +1,11 @@
 
 These are the STL files for The Cyrcle Phone 4G enclosure.
 
+Additional Materials Needed:
+Uses the following eight (8) McMaster Carr screws (4 for the skeleton, 4 for the back shell)
+- 5mm Screws: JIS Steel Flat Head Screws, M1.6 x 0.35 mm Thread, 5mm Long, 91305A004 https://www.mcmaster.com/catalog/127/3293/
+.
+.
 Tips for printing:
 - Calibrate your machine first. The walls are thin and will test your 3D printer's tolerances.
 - Print the "back shell" separately, face down, and use rectilinear supports inside to make the back of the shell smooth. Use pliers to grab and twist the support material out from the inside of the "back shell". The inside will end up being rough, but the outside smoothness will feel nice in the hand.
