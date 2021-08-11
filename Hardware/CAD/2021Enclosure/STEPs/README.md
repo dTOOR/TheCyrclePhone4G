@@ -1,4 +1,4 @@
-<p>These are the F3Z files for 2021 The Cyrcle Phone 4G enclosure.</p>
+<p>These are the STEP files for 2021 The Cyrcle Phone 4G enclosure.</p>
 
 <p>Additional Materials Needed for Assembly:</p>
 Uses the following eight (8) McMaster Carr screws (4 for the skeleton, 4 for the back shell)
