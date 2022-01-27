@@ -22,7 +22,7 @@ In July 2020, industrial designer Wesley Millora submitted an entry for The Cyrc
 In September 2020, dTOOR solicited Millora for a bid to update the design for injection molding purposes, which he then submitted.
 Months rolled by as dTOOR continued to work on software development.
 In late December 2020, Millora was contacted by dTOOR Founder & CEO Christina Cyr, formerly asking him to join the team. Since Millora was on vacation, and working on another project at the time, Cyr also asked permission to use Millora's design in the meantime, since units needed to be submitted to China for testing by January 10th.
-Millora worked on preparing a design appropriate for injection molding throughout 2021, with his final submission to dTOOR in December 2021. Cyr modified these files to create a newer 3D printable design.
+Millora worked on preparing a design appropriate for injection molding throughout 2021, with his final submission to dTOOR in December 2021. Cyr modified these final files to create a newer 3D printable design.
 These 3D-printer-friendly files were used for evaluation models, and one unit was even demonstrated at The Cyrcle Phone booth at CES2022 with positive response. 
 In our experience, these files can be printed fairly reliabily with most PLA filaments on most 3D printers, so that you can have any color (or sparkle) you want. These files are also provided to you so that you can enhance the design to better fit your style (rabbit ears, etc.). We would love it if you could share photos of your designs on social media and tag us at #cyrclephone so that we can see what you've added. Have fun!
 Licenses:
